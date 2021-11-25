@@ -1,0 +1,9 @@
+formatting credit card (react)
+
+https://codesandbox.io/s/vvrqjm7v07?file=/src/components/index.js
+https://codesandbox.io/s/ovvwzkzry9?file=/App.js
+https://codesandbox.io/s/fancy-credit-card-form-bc8r4?from-embed=&file=/src/Form.js
+
+
+Validating Credit Cards with Luhn Check Algorithm 
+https://www.youtube.com/watch?v=wsphC8V36i0
